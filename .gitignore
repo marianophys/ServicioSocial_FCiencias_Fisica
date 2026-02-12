@@ -2,3 +2,7 @@
 # --- Datos pesados ---
 Datos/
 *.root
+
+# --- Datos pesados ---
+Datos/
+*.root
